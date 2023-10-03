@@ -1,4 +1,4 @@
-"use strict"
+ "use strict"
 function solveEquation(name, ...roots) {
   let a = 10;
   let b = 10;
